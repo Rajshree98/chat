@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "763417016637",
+    "firebase_url": "https://chitchatting-a9fa0.firebaseio.com",
+    "project_id": "chitchatting-a9fa0",
+    "storage_bucket": "chitchatting-a9fa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763417016637:android:950ec891a1e5c987",
+        "android_client_info": {
+          "package_name": "com.nema.rajshree.chitchatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763417016637-b9t7iv1u79964hjvs0gqp82j7fire717.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nema.rajshree.chitchatting",
+            "certificate_hash": "14d82be2a34e8f7f9d8de5ee2ee52cbbbb0357ba"
+          }
+        },
+        {
+          "client_id": "763417016637-jvjbl2v4vk0ni3a3l9rnf3h7j99k9p51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgm4FCqUHZcN4XjyclmJicJG6dU5SfYbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763417016637-jvjbl2v4vk0ni3a3l9rnf3h7j99k9p51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
